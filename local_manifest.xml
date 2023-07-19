@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+<!-- Trees -->
+<project path="device/motorola/devon" name="leole0leoleo/device_motorola_devon.git" remote="github" revision="13" />
+<project path="device/motorola/sm6225-common" name="leole0leoleo/device_motorola_sm6225-common.git" remote="github" revision="13" />
+<project path="vendor/motorola/devon" name="leole0leoleo/vendor_motorola_devon.git" remote="github" revision="13" />
+<project path="kernel/motorola/devon" name="leole0leoleo/android_kernel_motorola_sm6225.git" remote="github" revision="lineage-20" />
+
+</manifest>
